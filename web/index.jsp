@@ -28,6 +28,7 @@
     </head>
     <body>
         <div class="container">
+            <hr>
             <h1>Mapeamento Objeto Relacional - ORM</h1>
             <h1>Classes de Manipulaçao de Dados - DAO</h1>
             <hr>
